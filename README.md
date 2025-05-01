@@ -6,7 +6,7 @@
   </a>
   <p></p>
   <p>| BaekJoon Solved.ac |</p>
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kirara8029" width=60% />
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kirara8029" width=70% />
 </div>
 <!--
 **Junseong0829/Junseong0829** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
