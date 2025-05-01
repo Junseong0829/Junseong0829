@@ -1,11 +1,11 @@
 ## Welcome to my Github 🤭
 <div align="center">
-  <p>| Git Animals |</p>
+  <p><b>| Git Animals |</b></p>
   <a href="https://github.com/devxb/gitanimals">
     <img src="https://render.gitanimals.org/farms/Junseong0829"/>
   </a>
   <p></p>
-  <p>| BaekJoon Solved.ac |</p>
+  <p><b>| BaekJoon Solved.ac |</b></p>
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kirara8029" width=70% />
 </div>
 <!--
