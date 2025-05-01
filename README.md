@@ -1,5 +1,13 @@
-## Hi there 👋
-
+## Welcome to my Github 🤭
+<div align="center">
+  <p>| Git Animals |</p>
+  <a href="https://github.com/devxb/gitanimals">
+    <img src="https://render.gitanimals.org/farms/Junseong0829"/>
+  </a>
+  <p></p>
+  <p>| BaekJoon Solved.ac |</p>
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kirara8029)](https://solved.ac/kirara8029/).
+</div>
 <!--
 **Junseong0829/Junseong0829** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
