@@ -1,4 +1,4 @@
-## Welcome to my Github 🤭
+## Hi there 🤭
 <div align="center">
   <p><b>| Git Animals |</b></p>
   <a href="https://github.com/devxb/gitanimals">
