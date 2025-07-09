@@ -3,6 +3,7 @@
   <li>🧑‍💻 I am majoring in <code>Computer Science</code> at <code>GIST University</code>.</li>
   <li>🌱 I enjoy developing practical solutions that make everyday life easier.</li>
   <li>🚀 I'm interested in full-stack development, AI applications, and solving real-world problems with code❗️</li>
+  <li>📮 How to reach me → junseong@gm.gist.ac.kr</li>
 </ul>
 
 ## 💻 Tech Stack
