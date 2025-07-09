@@ -2,7 +2,6 @@
 <ul> 
   <li>🧑‍💻 I am majoring in <code>Computer Science</code> at <code>GIST University</code>.</li>
   <li>🌱 I enjoy developing practical solutions that make everyday life easier.</li>
-  <li>📚 Currently attending <code>NAVER Boostcamp</code> <strong>(2025.06.23 ~ )</strong></li>
   <li>🚀 I'm interested in full-stack development, AI applications, and solving real-world problems with code❗️</li>
 </ul>
 
