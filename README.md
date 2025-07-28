@@ -2,7 +2,7 @@
 <ul> 
   <li>🧑‍💻 I am majoring in <code>Computer Science</code> at <code>GIST University</code>.</li>
   <li>🌱 I enjoy developing practical solutions that make everyday life easier.</li>
-  <li>🚀 Frontend Developer at Infoteam (2025 ~)</li>
+  <li>🚀 Frontend Developer at [Infoteam](https://github.com/gsainfoteam) (2025 ~)</li>
   <li>📮 How to reach me → junseong@gm.gist.ac.kr</li>
 </ul>
 
