@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm Junseong!
 <ul> 
-  <li>🧑‍💻 I am majoring in <code>Computer Science</code> at <code>GIST University</code>.</li>
+  <li>🧑‍💻 I am majoring in <code>Computer Science</code> at <code>GIST University</code>. (2021 ~)</li>
   <li>🌱 I enjoy developing practical solutions that make everyday life easier.</li>
   <li>🚀 Frontend Developer at <a href="https://github.com/gsainfoteam">Infoteam</a> (2025 ~)</li>
   <li>📮 How to reach me → junseong@gm.gist.ac.kr</li>
